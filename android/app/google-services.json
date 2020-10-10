@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285846763187",
+    "firebase_url": "https://flashchat-ca2b3.firebaseio.com",
+    "project_id": "flashchat-ca2b3",
+    "storage_bucket": "flashchat-ca2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285846763187:android:d2c4a06bed5d29175ba2c6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285846763187-vjflcoeq4bsf8p81tv9qsiu6r0a6627h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfEjWj3Es1pU9fGlrvmanRJQKpUxPgHqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285846763187-vjflcoeq4bsf8p81tv9qsiu6r0a6627h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
